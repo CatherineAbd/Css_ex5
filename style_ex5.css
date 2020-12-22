@@ -1,0 +1,49 @@
+header
+{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.title, .slogan, nav
+{
+    width: 50%;
+    border : blueviolet 1px solid;
+}
+
+nav
+{
+    margin: 50px;
+    padding: 50px;
+}
+
+h1
+{
+    color:cornflowerblue;
+}
+
+h2
+{
+    font-style: italic;
+}
+
+hr
+{
+    height: 10px;
+}
+
+article
+{
+    border: blueviolet 1px solid;
+}
+
+a
+{
+    color: green;
+}
+
+a:hover
+{
+    color: darkorange;
+}
